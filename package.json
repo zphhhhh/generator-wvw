@@ -1,0 +1,28 @@
+{
+  "name": "generator-wvw",
+  "version": "1.0.0",
+  "description": "An aswsome yeoman generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zphhhhh/scene.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "zphhhhh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zphhhhh/scene/issues"
+  },
+  "homepage": "https://github.com/zphhhhh/scene#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.0.1"
+  },
+  "files": [
+    "app"
+  ]
+}

@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# For macOS
+.DS_Store
+
+# For output
+dist
